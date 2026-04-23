@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Finance Tracker
 
 A full-stack personal finance tracker built with React, Vite, Tailwind CSS, Recharts, and an Express backend with JSON-file persistence.
@@ -124,3 +125,6 @@ Password: demo1234
 ```bash
 npm run build
 ```
+=======
+# expence_tracker
+>>>>>>> 08e5110c3db8977a5b0da3db083ff8e1c88e0028
